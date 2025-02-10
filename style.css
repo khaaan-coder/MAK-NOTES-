@@ -1,0 +1,18 @@
+*{
+    color: white;
+}
+.box{
+    background-color:blue;
+    display: inline-block;
+    height:100px;
+    width:100px;
+    text-align:center;
+    display:inline-block;
+    margin:00px;
+    position:fixed;
+}
+#a{
+   margin-right:1px;
+   position:fixed;
+    
+}
